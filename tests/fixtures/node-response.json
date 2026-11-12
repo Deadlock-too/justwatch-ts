@@ -1,0 +1,130 @@
+{
+  "data": {
+    "node": {
+      "id": "ts320458",
+      "objectId": 320458,
+      "objectType": "SHOW",
+      "content": {
+        "title": "Scissione",
+        "originalTitle": "Severance",
+        "originalReleaseYear": 2022,
+        "fullPath": "/it/serie-tv/severance",
+        "posterUrl": "/poster/331384507/{profile}/severance.{format}",
+        "externalIds": {
+          "tmdbId": "95396",
+          "imdbId": "tt11280740"
+        }
+      },
+      "offers": [
+        {
+          "monetizationType": "FLATRATE",
+          "presentationType": "SD",
+          "standardWebURL": "https://tv.apple.com/it/episode/buone-notizie-sullinferno/umc.cmc.s80mx1ic96pu6ewupz8pfasf?at=1000l3V2&ct=app_tvplus&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.4000%3AVSEVR0560101&showId=umc.cmc.1srk2goyh2q2zdxcx605w8vtx",
+          "deeplinkURL": "https://tv.apple.com/it/episode/buone-notizie-sullinferno/umc.cmc.s80mx1ic96pu6ewupz8pfasf?at=1000l3V2&ct=app_tvplus&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.4000%3AVSEVR0560101&showId=umc.cmc.1srk2goyh2q2zdxcx605w8vtx",
+          "retailPrice": null,
+          "retailPriceValue": null,
+          "currency": "EUR",
+          "availableToTime": null,
+          "elementCount": 2,
+          "package": {
+            "packageId": 350,
+            "clearName": "Apple TV",
+            "technicalName": "appletvplus",
+            "shortName": "atp",
+            "icon": "/icon/338367329/{profile}/appletvplus.{format}"
+          }
+        },
+        {
+          "monetizationType": "FLATRATE",
+          "presentationType": "HD",
+          "standardWebURL": "https://tv.apple.com/it/episode/buone-notizie-sullinferno/umc.cmc.s80mx1ic96pu6ewupz8pfasf?at=1000l3V2&ct=app_tvplus&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.4000%3AVSEVR0560101&showId=umc.cmc.1srk2goyh2q2zdxcx605w8vtx",
+          "deeplinkURL": "https://tv.apple.com/it/episode/buone-notizie-sullinferno/umc.cmc.s80mx1ic96pu6ewupz8pfasf?at=1000l3V2&ct=app_tvplus&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.4000%3AVSEVR0560101&showId=umc.cmc.1srk2goyh2q2zdxcx605w8vtx",
+          "retailPrice": null,
+          "retailPriceValue": null,
+          "currency": "EUR",
+          "availableToTime": null,
+          "elementCount": 2,
+          "package": {
+            "packageId": 350,
+            "clearName": "Apple TV",
+            "technicalName": "appletvplus",
+            "shortName": "atp",
+            "icon": "/icon/338367329/{profile}/appletvplus.{format}"
+          }
+        },
+        {
+          "monetizationType": "FLATRATE",
+          "presentationType": "_4K",
+          "standardWebURL": "https://tv.apple.com/it/episode/buone-notizie-sullinferno/umc.cmc.s80mx1ic96pu6ewupz8pfasf?at=1000l3V2&ct=app_tvplus&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.4000%3AVSEVR0560101&showId=umc.cmc.1srk2goyh2q2zdxcx605w8vtx",
+          "deeplinkURL": "https://tv.apple.com/it/episode/buone-notizie-sullinferno/umc.cmc.s80mx1ic96pu6ewupz8pfasf?at=1000l3V2&ct=app_tvplus&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.4000%3AVSEVR0560101&showId=umc.cmc.1srk2goyh2q2zdxcx605w8vtx",
+          "retailPrice": null,
+          "retailPriceValue": null,
+          "currency": "EUR",
+          "availableToTime": null,
+          "elementCount": 2,
+          "package": {
+            "packageId": 350,
+            "clearName": "Apple TV",
+            "technicalName": "appletvplus",
+            "shortName": "atp",
+            "icon": "/icon/338367329/{profile}/appletvplus.{format}"
+          }
+        },
+        {
+          "monetizationType": "FLATRATE",
+          "presentationType": "_4K",
+          "standardWebURL": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.92c7e5ed-9cf4-4e34-93a8-3beb40f7b279",
+          "deeplinkURL": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.92c7e5ed-9cf4-4e34-93a8-3beb40f7b279",
+          "retailPrice": null,
+          "retailPriceValue": null,
+          "currency": "EUR",
+          "availableToTime": null,
+          "elementCount": 2,
+          "package": {
+            "packageId": 2243,
+            "clearName": "Apple TV Amazon Channel",
+            "technicalName": "amazonappletvplus",
+            "shortName": "avl",
+            "icon": "/icon/338254390/{profile}/amazonappletvplus.{format}"
+          }
+        },
+        {
+          "monetizationType": "FLATRATE",
+          "presentationType": "SD",
+          "standardWebURL": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b10bd929-69a9-433a-b518-01600a896c88",
+          "deeplinkURL": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.b10bd929-69a9-433a-b518-01600a896c88",
+          "retailPrice": null,
+          "retailPriceValue": null,
+          "currency": "EUR",
+          "availableToTime": null,
+          "elementCount": 1,
+          "package": {
+            "packageId": 2243,
+            "clearName": "Apple TV Amazon Channel",
+            "technicalName": "amazonappletvplus",
+            "shortName": "avl",
+            "icon": "/icon/338254390/{profile}/amazonappletvplus.{format}"
+          }
+        },
+        {
+          "monetizationType": "FLATRATE",
+          "presentationType": "HD",
+          "standardWebURL": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b10bd929-69a9-433a-b518-01600a896c88",
+          "deeplinkURL": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.b10bd929-69a9-433a-b518-01600a896c88",
+          "retailPrice": null,
+          "retailPriceValue": null,
+          "currency": "EUR",
+          "availableToTime": null,
+          "elementCount": 1,
+          "package": {
+            "packageId": 2243,
+            "clearName": "Apple TV Amazon Channel",
+            "technicalName": "amazonappletvplus",
+            "shortName": "avl",
+            "icon": "/icon/338254390/{profile}/amazonappletvplus.{format}"
+          }
+        }
+      ]
+    }
+  }
+}

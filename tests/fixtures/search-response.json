@@ -1,0 +1,248 @@
+{
+  "data": {
+    "popularTitles": {
+      "edges": [
+        {
+          "node": {
+            "id": "tm44313",
+            "objectId": 44313,
+            "objectType": "MOVIE",
+            "content": {
+              "title": "Il Signore degli Anelli - La Compagnia dell'Anello",
+              "originalTitle": "The Lord of the Rings: The Fellowship of the Ring",
+              "originalReleaseYear": 2001,
+              "fullPath": "/it/film/il-signore-degli-anelli-la-compagnia-dellanello",
+              "posterUrl": "/poster/334284871/{profile}/il-signore-degli-anelli-la-compagnia-dellanello.{format}",
+              "externalIds": {
+                "tmdbId": "120",
+                "imdbId": "tt0120737"
+              }
+            },
+            "offers": [
+              {
+                "monetizationType": "FLATRATE",
+                "presentationType": "SD",
+                "standardWebURL": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.84a9f6d5-bc3f-73a3-e41f-a82b4ff83e67",
+                "deeplinkURL": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.84a9f6d5-bc3f-73a3-e41f-a82b4ff83e67",
+                "retailPrice": null,
+                "retailPriceValue": null,
+                "currency": "EUR",
+                "availableToTime": "2027-03-25T22:59:59Z",
+                "elementCount": 0,
+                "package": {
+                  "packageId": 119,
+                  "clearName": "Amazon Prime Video",
+                  "technicalName": "amazonprimevideo",
+                  "shortName": "prv",
+                  "icon": "/icon/322992749/{profile}/amazonprimevideo.{format}"
+                }
+              },
+              {
+                "monetizationType": "FLATRATE",
+                "presentationType": "HD",
+                "standardWebURL": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.84a9f6d5-bc3f-73a3-e41f-a82b4ff83e67",
+                "deeplinkURL": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.84a9f6d5-bc3f-73a3-e41f-a82b4ff83e67",
+                "retailPrice": null,
+                "retailPriceValue": null,
+                "currency": "EUR",
+                "availableToTime": "2027-03-25T22:59:59Z",
+                "elementCount": 0,
+                "package": {
+                  "packageId": 119,
+                  "clearName": "Amazon Prime Video",
+                  "technicalName": "amazonprimevideo",
+                  "shortName": "prv",
+                  "icon": "/icon/322992749/{profile}/amazonprimevideo.{format}"
+                }
+              },
+              {
+                "monetizationType": "FLATRATE",
+                "presentationType": "HD",
+                "standardWebURL": "https://skygo.sky.it/",
+                "deeplinkURL": "https://skygo.sky.it/",
+                "retailPrice": null,
+                "retailPriceValue": null,
+                "currency": "EUR",
+                "availableToTime": "2027-08-16T21:59:59Z",
+                "elementCount": 0,
+                "package": {
+                  "packageId": 29,
+                  "clearName": "Sky Go",
+                  "technicalName": "skygo",
+                  "shortName": "skg",
+                  "icon": "/icon/346742420/{profile}/skygo.{format}"
+                }
+              },
+              {
+                "monetizationType": "FLATRATE",
+                "presentationType": "SD",
+                "standardWebURL": "https://www.nowtv.it/watch/asset/il-signore-degli-anelli-la-compagnia-dellanello/R_192125_HD",
+                "deeplinkURL": "https://www.nowtv.it/watch/asset/il-signore-degli-anelli-la-compagnia-dellanello/R_192125_HD",
+                "retailPrice": null,
+                "retailPriceValue": null,
+                "currency": "EUR",
+                "availableToTime": "2027-08-16T21:59:59Z",
+                "elementCount": 0,
+                "package": {
+                  "packageId": 39,
+                  "clearName": "Now TV",
+                  "technicalName": "nowtv",
+                  "shortName": "ntv",
+                  "icon": "/icon/243753092/{profile}/nowtv.{format}"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "tm15075",
+            "objectId": 15075,
+            "objectType": "MOVIE",
+            "content": {
+              "title": "Il Signore degli Anelli",
+              "originalTitle": "The Lord of the Rings",
+              "originalReleaseYear": 1978,
+              "fullPath": "/it/film/il-signore-degli-anelli",
+              "posterUrl": "/poster/355003470/{profile}/il-signore-degli-anelli.{format}",
+              "externalIds": {
+                "tmdbId": "123",
+                "imdbId": "tt0077869"
+              }
+            },
+            "offers": [
+              {
+                "monetizationType": "FLATRATE",
+                "presentationType": "HD",
+                "standardWebURL": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
+                "deeplinkURL": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
+                "retailPrice": null,
+                "retailPriceValue": null,
+                "currency": "EUR",
+                "availableToTime": null,
+                "elementCount": 0,
+                "package": {
+                  "packageId": 2623,
+                  "clearName": "Artiflix",
+                  "technicalName": "artflix",
+                  "shortName": "afx",
+                  "icon": "/icon/339924825/{profile}/artflix.{format}"
+                }
+              },
+              {
+                "monetizationType": "FLATRATE",
+                "presentationType": "SD",
+                "standardWebURL": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
+                "deeplinkURL": "https://www.td3j0sk.com/2KJ22T61/KF6NB2N",
+                "retailPrice": null,
+                "retailPriceValue": null,
+                "currency": "EUR",
+                "availableToTime": null,
+                "elementCount": 0,
+                "package": {
+                  "packageId": 2623,
+                  "clearName": "Artiflix",
+                  "technicalName": "artflix",
+                  "shortName": "afx",
+                  "icon": "/icon/339924825/{profile}/artflix.{format}"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "tm115982",
+            "objectId": 115982,
+            "objectType": "MOVIE",
+            "content": {
+              "title": "Il Signore degli Anelli - Le due torri",
+              "originalTitle": "The Lord of the Rings: The Two Towers",
+              "originalReleaseYear": 2002,
+              "fullPath": "/it/film/il-signore-degli-anelli-le-due-torri",
+              "posterUrl": "/poster/334287197/{profile}/il-signore-degli-anelli-le-due-torri.{format}",
+              "externalIds": {
+                "tmdbId": "121",
+                "imdbId": "tt0167261"
+              }
+            },
+            "offers": [
+              {
+                "monetizationType": "FLATRATE",
+                "presentationType": "SD",
+                "standardWebURL": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a2a9f6ce-d700-f70b-88bf-54f0968a48d5",
+                "deeplinkURL": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.a2a9f6ce-d700-f70b-88bf-54f0968a48d5",
+                "retailPrice": null,
+                "retailPriceValue": null,
+                "currency": "EUR",
+                "availableToTime": "2027-03-25T22:59:59Z",
+                "elementCount": 0,
+                "package": {
+                  "packageId": 119,
+                  "clearName": "Amazon Prime Video",
+                  "technicalName": "amazonprimevideo",
+                  "shortName": "prv",
+                  "icon": "/icon/322992749/{profile}/amazonprimevideo.{format}"
+                }
+              },
+              {
+                "monetizationType": "FLATRATE",
+                "presentationType": "HD",
+                "standardWebURL": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a2a9f6ce-d700-f70b-88bf-54f0968a48d5",
+                "deeplinkURL": "https://app.primevideo.com/watch?gti=amzn1.dv.gti.a2a9f6ce-d700-f70b-88bf-54f0968a48d5",
+                "retailPrice": null,
+                "retailPriceValue": null,
+                "currency": "EUR",
+                "availableToTime": "2027-03-25T22:59:59Z",
+                "elementCount": 0,
+                "package": {
+                  "packageId": 119,
+                  "clearName": "Amazon Prime Video",
+                  "technicalName": "amazonprimevideo",
+                  "shortName": "prv",
+                  "icon": "/icon/322992749/{profile}/amazonprimevideo.{format}"
+                }
+              },
+              {
+                "monetizationType": "FLATRATE",
+                "presentationType": "HD",
+                "standardWebURL": "https://skygo.sky.it/",
+                "deeplinkURL": "https://skygo.sky.it/",
+                "retailPrice": null,
+                "retailPriceValue": null,
+                "currency": "EUR",
+                "availableToTime": "2027-08-16T21:59:59Z",
+                "elementCount": 0,
+                "package": {
+                  "packageId": 29,
+                  "clearName": "Sky Go",
+                  "technicalName": "skygo",
+                  "shortName": "skg",
+                  "icon": "/icon/346742420/{profile}/skygo.{format}"
+                }
+              },
+              {
+                "monetizationType": "FLATRATE",
+                "presentationType": "SD",
+                "standardWebURL": "https://www.nowtv.it/watch/asset/il-signore-degli-anelli-le-due-torri/R_192130_HD",
+                "deeplinkURL": "https://www.nowtv.it/watch/asset/il-signore-degli-anelli-le-due-torri/R_192130_HD",
+                "retailPrice": null,
+                "retailPriceValue": null,
+                "currency": "EUR",
+                "availableToTime": "2027-08-16T21:59:59Z",
+                "elementCount": 0,
+                "package": {
+                  "packageId": 39,
+                  "clearName": "Now TV",
+                  "technicalName": "nowtv",
+                  "shortName": "ntv",
+                  "icon": "/icon/243753092/{profile}/nowtv.{format}"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

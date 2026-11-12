@@ -1,0 +1,86 @@
+{
+  "name": "justwatch-ts",
+  "version": "0.0.0",
+  "description": "TypeScript library to find where a film or a series can be watched, from JustWatch.",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.cts",
+  "exports": {
+    ".": {
+      "import": {
+        "types": "./dist/index.d.mts",
+        "default": "./dist/index.mjs"
+      },
+      "require": {
+        "types": "./dist/index.d.cts",
+        "default": "./dist/index.cjs"
+      }
+    }
+  },
+  "sideEffects": false,
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "justwatch",
+    "streaming",
+    "movies",
+    "tv",
+    "where-to-watch",
+    "api",
+    "typescript"
+  ],
+  "scripts": {
+    "build": "tsdown",
+    "test": "jest --selectProjects unit",
+    "test:integration": "jest --selectProjects integration",
+    "test:coverage": "jest --selectProjects unit --coverage",
+    "test:smoke": "npm run build && node tests/smoke.mjs && node tests/smoke.cjs",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "changeset": "changeset",
+    "version": "changeset version",
+    "release": "npm run build && changeset publish",
+    "prepare": "npm run build"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "Deadlock-too",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "homepage": "https://github.com/Deadlock-too/justwatch-ts#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deadlock-too/justwatch-ts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Deadlock-too/justwatch-ts/issues"
+  },
+  "devDependencies": {
+    "@changesets/changelog-github": "^0.7.0",
+    "@changesets/cli": "^2.31.0",
+    "@eslint/js": "^10.0.1",
+    "@types/jest": "^30.0.0",
+    "@types/node": "^25.9.3",
+    "eslint": "^10.5.0",
+    "eslint-config-prettier": "^10.1.8",
+    "jest": "^30.4.2",
+    "prettier": "^3.8.4",
+    "ts-jest": "^29.4.11",
+    "ts-node": "^10.9.2",
+    "tsdown": "^0.21.10",
+    "typescript": "^6.0.3",
+    "typescript-eslint": "^8.61.1"
+  },
+  "allowScripts": {
+    "unrs-resolver@1.12.2": true
+  },
+  "dependencies": {
+    "@deadlock-too/scrape-kit": "^1.1.0"
+  }
+}
