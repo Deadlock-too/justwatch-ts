@@ -1,6 +1,6 @@
 {
   "name": "justwatch-ts",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "TypeScript library to find where a film or a series can be watched, from JustWatch.",
   "main": "./dist/index.cjs",
   "module": "./dist/index.mjs",
